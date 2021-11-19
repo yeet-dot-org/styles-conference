@@ -328,26 +328,34 @@ p a {
 .teaser a:hover h3 {
   color: #a9b2b9;
 }
+<<<<<<< HEAD
 .teaser img {
   border-radius: 5px;
   display: block;
   margin-bottom: 22px;
   max-width: 100%
 }
+=======
+>>>>>>> 22036ddddd0e82dbecd50e6024148cb84c09e318
 
 /*
   ========================================
   Speakers
   ========================================
 */
+<<<<<<< HEAD
 
 .speaker {
   margin-bottom: 44px;
 }
+=======
+  
+>>>>>>> 22036ddddd0e82dbecd50e6024148cb84c09e318
 .speaker-info {
   border: 1px solid #dfe2e5;
   border-radius: 5px;
   margin-top: 88px;
+<<<<<<< HEAD
   padding-bottom: 22px;
   text-align: center;
 }
@@ -373,3 +381,12 @@ p a {
 .venue-map {
   height: 264px;
 }
+=======
+  padding: 22px 0;
+  text-align: center;
+}
+
+.speaker {
+  margin-bottom: 44px;
+}
+>>>>>>> 22036ddddd0e82dbecd50e6024148cb84c09e318
